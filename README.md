@@ -31,16 +31,13 @@ npm start
 
 ## Pics of the application
 
-<img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/Homepage.png">
-<img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/Question.png">
+<img src="https://github.com/narasimhaP893/Stack-Overflow/blob/main/Screenshots/Homepage.png">
+<img src="https://github.com/narasimhaP893/Stack-Overflow/blob/main/Screenshots/Question.png">
 
 ## Live Link for the website:
 
-[Click here](https://stack-overflow-manoj.netlify.app/)
+[Click here](https://stack-overflow-narasimhap893.vercel.app/)
 
-## Contributions
-
-Contributions are always welcomed. Anyone can contribute to this project. Contributors will be given credits.
 
 ## Credits
 
